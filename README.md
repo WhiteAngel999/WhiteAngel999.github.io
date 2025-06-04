@@ -3,9 +3,7 @@
 Welcome to my website! This project is built using **HTML, CSS, and JavaScript**.
 
 ## Features
-- 🎨 Custom styling
-- 🚀 Responsive design
-- 🖥️ Interactive elements
+- Workign on a design for a streamer
 
 ## How to View the Site
 1. Open `index.html` in a browser.
